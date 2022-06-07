@@ -1,0 +1,29 @@
+.content tr {
+  height: 7rem;
+}
+
+.content th {
+  width: 150px;
+  text-align: right;
+}
+
+.content td {
+  padding-left: 10px;
+}
+
+.textform {
+  width: 480px;
+}
+
+.button {
+  font-size: 3rem;
+  margin-left: 300px;
+  padding: 10px;
+  background-color: #008B8B;
+  color: white;
+  border: none;
+}
+
+.button :hover {
+  opacity: 0.5;
+}
