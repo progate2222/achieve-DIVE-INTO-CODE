@@ -89,7 +89,7 @@ font-size: 0.8rem;
 
 /* ここから */
 .function {
-  background-color: #D3D3D3
+  background-color: #D3D3D3;
 }
 
 .function h1 {
@@ -97,8 +97,9 @@ font-size: 0.8rem;
 }
 
 .function-images {
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
 }
 
 .function-images p {
@@ -111,7 +112,9 @@ font-size: 0.8rem;
 
 .function-image {
   float: left;
-  padding: 3% 3% 3% 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+
 }
 /* ここまでがfunction部分の実装 */
 
