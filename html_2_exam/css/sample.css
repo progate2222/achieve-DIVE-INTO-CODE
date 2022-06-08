@@ -97,9 +97,9 @@ font-size: 0.8rem;
 }
 
 .function-images {
-  margin-left: 20%;
-  margin-right: 20%;
-  width: 60%;
+  display: flex;
+  justify-content: center;
+画像同士の間に任意のサイズで余白を入れること
 }
 
 .function-images p {
@@ -107,7 +107,9 @@ font-size: 0.8rem;
 }
 
 .function-images img {
-  width: 40%;
+  float: none;
+  padding: 20px;
+  width: 50%;
 }
 
 .function-image {
